@@ -1,2 +1,2 @@
 # sysinfoserver
-Zuri assignment
+Server returns system info
